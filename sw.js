@@ -1,5 +1,5 @@
 // Offline-first service worker for the quote app.
-const CACHE = 'sj-quotes-v2';
+const CACHE = 'sj-quotes-v3';
 const SHELL = ['./', 'index.html', 'manifest.webmanifest',
                'icon-192-v2.png', 'icon-512-v2.png', 'apple-touch-icon-v2.png'];
 
